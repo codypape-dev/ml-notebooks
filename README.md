@@ -1,2 +1,2 @@
 # ml-notebooks
-Machine learning projects
+Machine learning projects by Paula Perdomo.
